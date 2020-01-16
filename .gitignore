@@ -2,3 +2,6 @@
 .DS_*
 subject.fr.txt
 subject.ro.txt
+.vscode/*
+a.out
+*.dSYM/
